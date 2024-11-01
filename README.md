@@ -18,10 +18,10 @@ Kaggle notebook: https://www.kaggle.com/code/timurkhabirovich/price-gears-intera
 
 <img src="cars_price_prediction/price.png" width="600">
 
-## [The Interplay of Economy, Environment, Life Expectancy ](https://github.com/anastasiyaigonina/Portfolio_Projects/tree/main/retails_sales_eda_predictions)
+## [The Interplay of Economy, Environment, Life Expectancy ](https://github.com/Khabirovich/portfolio_projects/tree/main/worlds_bank)
 
 This project focuses on data visualization
 
 Kaggle notebook: https://www.kaggle.com/code/timurkhabirovich/the-interplay-of-economy-environment-life-expct
 
-<img src="retails_sales_eda_predictions/retail_screenshot.png" width="600">
+<img src="worlds_bank/viz.png" width="600">
