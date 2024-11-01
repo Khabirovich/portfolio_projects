@@ -8,15 +8,15 @@ This study presents a comprehensive analysis of data on the world's top restaura
 
 Kaggle notebook: https://www.kaggle.com/code/timurkhabirovich/geography-leadership-and-longevity
 
-<img src="cars_price_prediction/price.png" width="600">
+<img src="" width="600">
 
-## [Analyzing factors affecting the cost of cars and predicting prices using machine learning models](https://github.com/anastasiyaigonina/Portfolio_Projects/tree/main/reviews_sentiment_topic_modeling)
+## [Analyzing factors affecting the cost of cars and predicting prices using machine learning models](https://github.com/Khabirovich/portfolio_projects/tree/main/cars_price_prediction)
 
 This analysis examines the major factors affecting vehicle prices, including brand, model, year of manufacture, engine size, fuel type, transmission, and mileage. Visualizations are presented to show the distribution of prices and the dependence on various characteristics. Machine learning models (linear regression, decision tree and random forest) are also used to predict prices, with an evaluation of their performance and identification of the most significant features.
 
 Kaggle notebook: https://www.kaggle.com/code/timurkhabirovich/price-gears-interactive-car-market-insights
 
-<img src="reviews_sentiment_topic_modeling/reviews_screenshot.png" width="600">
+<img src="cars_price_prediction/price.png" width="600">
 
 ## [The Interplay of Economy, Environment, Life Expectancy ](https://github.com/anastasiyaigonina/Portfolio_Projects/tree/main/retails_sales_eda_predictions)
 
