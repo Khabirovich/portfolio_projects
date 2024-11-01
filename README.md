@@ -2,13 +2,13 @@
 
 This repository contains a collection of my projects, each showcasing my passion for data analysis. These projects encompass a wide range of data analysis tools and programming languages, offering a glimpse into my diverse skill set and problem-solving abilities. Each project is a unique journey, providing insightful solutions to real-world challenges.
 
-## [Distribution and Trends of the World's Best Restaurants: Geographic and Time Analysis](https://github.com/anastasiyaigonina/Portfolio_Projects/tree/main/diabetes_hypothesis_predictions)
+## [Distribution and Trends of the World's Best Restaurants: Geographic and Time Analysis](https://github.com/Khabirovich/portfolio_projects/tree/main/worlds_best_rest)
 
 This study presents a comprehensive analysis of data on the world's top restaurants, including geographic distribution, time trends and ranking dynamics. Using a variety of visualizations, we explore which countries and regions lead the global culinary industry, which restaurants have held top positions in different years, and how the overall restaurant rankings have changed over time. The analysis helps us identify key culinary centers and understand the factors that influence the success of restaurants on the global stage.
 
 Kaggle notebook: https://www.kaggle.com/code/timurkhabirovich/geography-leadership-and-longevity
 
-<img src="" width="600">
+<img src="worlds_best_rest/rest.png" width="600">
 
 ## [Analyzing factors affecting the cost of cars and predicting prices using machine learning models](https://github.com/Khabirovich/portfolio_projects/tree/main/cars_price_prediction)
 
