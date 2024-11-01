@@ -8,7 +8,7 @@ This study presents a comprehensive analysis of data on the world's top restaura
 
 Kaggle notebook: https://www.kaggle.com/code/timurkhabirovich/geography-leadership-and-longevity
 
-<img src="car_price_prediction/price.png" width="600">
+<img src="cars_price_prediction/price.png" width="600">
 
 ## [Analyzing factors affecting the cost of cars and predicting prices using machine learning models](https://github.com/anastasiyaigonina/Portfolio_Projects/tree/main/reviews_sentiment_topic_modeling)
 
